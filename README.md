@@ -40,11 +40,13 @@ To obtain the color values, the RGB values of the caterpillar and plant backgrou
 
 ### Main findings
 --------
- - Two hypotheses were tested in the study. The first hypothesis aimed to determine whether the predation rates of cryptic and aposematic caterpillars were significantly different or not. The results showed that the null hypothesis (i.e., the predation rates are the same) was rejected in favor of the alternative hypothesis (i.e., the predation rates are significantly different). However, further analysis revealed that the green caterpillars, which were assumed to be cryptic, were not actually cryptic based on the color analysis.
+Two hypotheses were tested in the study:
+
+- The first hypothesis aimed to determine whether the predation rates of cryptic and aposematic caterpillars were significantly different or not. The results showed that the null hypothesis (i.e., the predation rates are the same) was rejected in favor of the alternative hypothesis (i.e., the predation rates are significantly different). However, further analysis revealed that the green caterpillars, which were assumed to be cryptic, were not actually cryptic based on the color analysis.
 
 - The second hypothesis investigated whether the color types of the plants where the dummy caterpillars were installed had any effect on predation rates. The initial analysis using model 1, which included yellow and green background colors, failed to reject the null hypothesis (i.e., no significant effect). However, a subsequent color analysis and model 2 showed that the contrast between the colors of the caterpillars and the background had a significant effect on predation rates.
 
-> From the color analysis we can see that the higher the contrast between the caterpillars and the background, the higher the predation risk The high contrast group here in the study were the green caterpillars.
+- From the color analysis we can see that the higher the contrast between the caterpillars and the background, the higher the predation risk The high contrast group here in the study were the green caterpillars.
 
 ### Drawbacks
 --------

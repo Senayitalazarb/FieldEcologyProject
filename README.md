@@ -10,7 +10,8 @@ In this study, we use AC in four different areas of Freiburg(Germany) to test th
 
 ## Method adapted
 The study conducted was aimed at investigating the role of caterpillar coloration and background in determining predation risk. The study was conducted on four randomly selected locations in Freiburg im Breisgau, Germany. The caterpillars were made of non-hardening plasticine and were of two types: pure green and yellow with black stripes. The AC was placed on two types of plants: Rockrose Polygala (RP) and any green plant (GP) without flowers. The plants with the AC were separated by at least 4m. After 72 hours, the AC were collected and examined for predation marks. The study found that the yellow and black striped caterpillars had higher predation rates, and the predation rate was significantly influenced by the background. 
-![image-4.png](Freiburg_map.png)
+
+[Study_site](Freiburg_map.png)
 
 ### Statistical Analysis
 Chi-square test and General Linear Mixed Models (GLMM) were used to analyze the data. The study found a correlation between predator type and caterpillar color, as well as a relationship between the quantified color contrast and predation risk. RGB and HSV values were obtained using ImageJ® software, and color contrast was calculated by the Euclidean distance between two colors in an HSV color space. Overall, the study provided insights into the factors affecting predation risk in caterpillars.

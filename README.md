@@ -28,11 +28,11 @@ To obtain the color values, the RGB values of the caterpillar and plant backgrou
 </p>
 
 
-#### Experimental Design!
+### Experimental Design!
 --------
 
-Hypothesis 1:  P(predated | aposematic) = P(predated | cryptic)
-Hypothesis 2:  P(predation) ⊥ plant 
+- Hypothesis 1:  P(predated | aposematic) = P(predated | cryptic)
+- Hypothesis 2:  P(predation) ⊥ plant 
 
 <p align="center">
   <img src="design.png" alt="design">

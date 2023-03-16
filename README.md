@@ -1,7 +1,7 @@
 
-<h1 style="text-align:center;">Difference of Predation Rates between Cryptic and Aposematic Strategies</h1>
+<h1 style="text-align:center; font-size:24px;">Predation Rates between Cryptic and Aposematic Strategies</h1>
+                            using artificial caterpillars
 
- ## Ecological background
 
 This note discusses the importance of caterpillars in the food chain and their vulnerability to predation. Caterpillars adopt different defense strategies such as cryptic, mimicry, and aposematism to protect themselves from predators. The cinnabar moth caterpillar is an example of a caterpillar that uses aposematism to signal toxicity and camouflage to avoid predation. The effectiveness of these defense strategies can be measured by studying the predation rates of predators using artificial caterpillar models. 
 

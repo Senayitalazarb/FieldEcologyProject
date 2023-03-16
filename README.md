@@ -1,6 +1,5 @@
-## Difference of Predation Rates between Cryptic and Aposematic Strategies!
-                            using artificial caterpillars
 
+<h1 style="text-align:center;">Difference of Predation Rates between Cryptic and Aposematic Strategies</h1>
 
  ## Ecological background
 
@@ -24,14 +23,18 @@ The study conducted was aimed at investigating the role of caterpillar coloratio
 
 To obtain the color values, the RGB values of the caterpillar and plant background were extracted using ImageJ® software, and then transferred to HSV values using the matplotlib.colors.rgb_to_hsv function in Python. This allowed for testing of hypotheses related to the effect of color and color contrast on predation risk using statistical methods such as General Linear Mixed Models (GLMM) and Chi-square. The inclusion of the site variable as a random effect in the GLMM accounted for variation between sites. By testing the effects of COLOR_caterpillar, plant_color, and CONTRAST as fixed effects, the study provided valuable insights into the factors affecting predation risk in caterpillars.
 
-![color_analysis](Color_analysis.png)
+<p align="center">
+  <img src="Color_analysis.png" alt="Color_analysis">
+</p>
 
 --------
 #### Experimental Design!
 Hypothesis 1:  P(predated | aposematic) = P(predated | cryptic)
 Hypothesis 2:  P(predation) ⊥ plant 
 
-![design](design.png)
+<p align="center">
+  <img src="design.png" alt="design">
+</p>
 
 --------
 ### Main findings

@@ -48,6 +48,7 @@ Hypothesis 2:  P(predation) ⊥ plant
 
 ### Requirements
 --------
+
 To run the code and reproduce the analysis, the following software and packages are required:
 
 - [Python 3.x](https://www.python.org/)

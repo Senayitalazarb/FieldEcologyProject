@@ -41,10 +41,22 @@ To obtain the color values, the RGB values of the caterpillar and plant backgrou
 
 ### Main findings
 --------
+ - Two hypotheses were tested in the study. The first hypothesis aimed to determine whether the predation rates of cryptic and aposematic caterpillars were significantly different or not. The results showed that the null hypothesis (i.e., the predation rates are the same) was rejected in favor of the alternative hypothesis (i.e., the predation rates are significantly different). However, further analysis revealed that the green caterpillars, which were assumed to be cryptic, were not actually cryptic based on the color analysis.
 
-- Rresults suggest that the color of the caterpillar has a significant effect on predation risk, with yellow caterpillars being less likely to be preyed upon than green caterpillars. 
-- However, there is no evidence of an effect of the background color on predation risk. The random effect for the site indicates that there is some variation in predation risk that is specific to each site. 
-- Moreover, we can hardly assign the yellow or green dummy caterpillars to be either cryptic or aposematic because of what we see from the color analysis.
+- The second hypothesis investigated whether the color types of the plants where the dummy caterpillars were installed had any effect on predation rates. The initial analysis using model 1, which included yellow and green background colors, failed to reject the null hypothesis (i.e., no significant effect). However, a subsequent color analysis and model 2 showed that the contrast between the colors of the caterpillars and the background had a significant effect on predation rates.
+
+### Drawbacks
+--------
+
+- Easier to spot predation on green caterpillars suggests that the observer may be biased towards detecting predation on green caterpillars compared to other caterpillar colors. This could be due to the material for making the green caterpillar was with a high contrast.
+
+- Possible confounding factors that need to be controlled for include: seasonality, field site properties, human influence, weather conditions, and distribution of samples per field site.
+
+### Further research
+--------
+
+- To minimize the impact of confounding factors, appropriate sampling methods and statistical analyses should be used.
+
 
 ### Requirements
 --------
@@ -61,15 +73,3 @@ To run the code and reproduce the analysis, the following software and packages 
 ## Author
 This project was created by Senayit Berhane. For questions or feedback, please contact senayita.hac@gmail.com
 
-
-### Results
-- Hypothesis 1: The predation rates of the cryptic and aposematic caterpillars significantly different (H0) or are the same (H1)?
-- Assuming our green caterpillars are cryptic and cinnabar caterpillars are aposematic & according to model 1 (which tests hypothesis 1 & 2):
-> Reject H1; The predation rates are significantly different (H0 holds)
-> BUT: color analysis shows that our green caterpillars are not actually cryptic
-
-- Hypothesis 2: The color types of plant where these dummy caterpillars are installed have no effect (H0) or have a significant effect on the predation (H1)?
-- According to model 1 (which tests hypothesis 1 & 2; background colors are either yellow/green):
-> Fail to reject H0; The background color of the plants has no significant effect on predation rates
-> BUT: According to color analysis & model 2 (which actually quantifies the background color):
-Contrast between colors of caterpillars and background has significant effect on predation rates

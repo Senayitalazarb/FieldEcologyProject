@@ -15,9 +15,10 @@ The study conducted was aimed at investigating the role of caterpillar coloratio
 
 ### Statistical Analysis
 Chi-square test and General Linear Mixed Models (GLMM) were used to analyze the data. The study found a correlation between predator type and caterpillar color, as well as a relationship between the quantified color contrast and predation risk. RGB and HSV values were obtained using ImageJ® software, and color contrast was calculated by the Euclidean distance between two colors in an HSV color space. Overall, the study provided insights into the factors affecting predation risk in caterpillars.
-HSV colour space. ![image-9.png](attachment:image-9.png)
+HSV colour space. 
+![Color_analysis](Color_analysis.png)
 
 #### Experimental Design!
 - Hypothesis 1:  P(predated | aposematic) = P(predated | cryptic)
 - Hypothesis 2:  P(predation) ⊥ plant 
-![image-6.png](attachment:image-6.png)
+![design](design.png)

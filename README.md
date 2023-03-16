@@ -21,4 +21,5 @@ HSV colour space.
 #### Experimental Design!
 - Hypothesis 1:  P(predated | aposematic) = P(predated | cryptic)
 - Hypothesis 2:  P(predation) ⊥ plant 
+
 ![design](design.png)

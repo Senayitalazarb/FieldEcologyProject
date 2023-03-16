@@ -45,6 +45,8 @@ To obtain the color values, the RGB values of the caterpillar and plant backgrou
 
 - The second hypothesis investigated whether the color types of the plants where the dummy caterpillars were installed had any effect on predation rates. The initial analysis using model 1, which included yellow and green background colors, failed to reject the null hypothesis (i.e., no significant effect). However, a subsequent color analysis and model 2 showed that the contrast between the colors of the caterpillars and the background had a significant effect on predation rates.
 
+- From the color analysis we can see that the higher the contrast between the caterpillars and the background, the higher the predation risk The high contrast group here in the study were the green caterpillars.
+
 ### Drawbacks
 --------
 
